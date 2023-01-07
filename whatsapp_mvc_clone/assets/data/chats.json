@@ -1,0 +1,4381 @@
+[
+  {
+    "userName" : "Maria",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+  "lastMessage": "OK",
+  "lastSeen": "02:01:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Ok",
+        "time": "02:01:28",
+        "status": false,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Aleena",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjWRkgI0C5vq9qc-3aBT6eq6pi6ncH1x7Aw&usqp=CAU",
+    "lastMessage": "As you wish",
+    "lastSeen": "01:12:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "As you wish",
+        "time": "01:12:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Fatima",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjWRkgI0C5vq9qc-3aBT6eq6pi6ncH1x7Aw&usqp=CAU",
+    "lastMessage": ":)",
+    "lastSeen": "01:12:29",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": ":)",
+        "time": "01:01:29",
+        "status": false,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Zimal",
+    "imageUrl" : "https://media.istockphoto.com/id/1124867063/photo/beautiful-young-smiling-asian-woman-working-on-laptop-and-drinking-coffee-in-living-room-at.jpg?b=1&s=170667a&w=0&k=20&c=vznMI5CDuVENsQHgfLVTU1NF8L1wQcVGXuycTOncWkU=",
+    "lastMessage": "Hmm",
+    "lastSeen": "01:25:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Hmm",
+        "time": "01:25:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Irha",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0r0a4P_woDlEQCCdXkZEn42MliKalHoMwg&usqp=CAU",
+   "lastMessage": "It's oo late",
+    "lastSeen": "09:40:00",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Its too late",
+        "time": "09:40:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Husnain",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1cEyhkbh9PytnsCTdfSsCE3JZpEXJLxz-HQ&usqp=CAU",
+    "lastMessage": "Hey",
+    "lastSeen": "12:50:00",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Hey",
+        "time": "12:50:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Ahmad",
+    "imageUrl" : "https://img.freepik.com/free-photo/focused-female-professional-working-computer_74855-1900.jpg",
+    "lastMessage": "Please, its urgent",
+    "lastSeen":"11:58:00",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Please, its urgent",
+        "time": "11:58:00",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Mom",
+    "imageUrl" : "https://thumbs.dreamstime.com/b/group-muslim-business-women-discussing-handshake-using-tablet-pc-outdoor-muslim-business-women-discussing-handshake-155111580.jpg",
+   "lastMessage": "?",
+    "lastSeen": "08:50:00",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "?",
+        "time": "06:50:00",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Boss",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96C82NwaWQA9HinoE7He1PhY-4IqQIDhNwQ&usqp=CAU",
+    "lastMessage": "Hmm",
+    "lastSeen": "01:50:00",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Hmm",
+        "time": "01:50:00",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Brother",
+    "imageUrl" : "https://i.pinimg.com/564x/28/31/4b/28314b8c70a608a61e221afcd80c290c.jpg",
+    "lastMessage": "Okay",
+    "lastSeen": "01:50:00",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Okay",
+        "time": "01:50:00",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Sikander",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQXHx5htSmbxRQIZOoY-yzJ-A71t-mxZISw&usqp=CAU",
+   "lastMessage": "Thank you",
+    "lastSeen": "04:01:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Thank you",
+        "time": "04:01:28",
+        "status": false,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Husnain",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDk_4RJjzDeuSmavhZoUSeY1VytHplg57kjA&usqp=CAU",
+    "lastMessage": "See you Soon",
+    "lastSeen": "04:01:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "See you soon",
+        "time": "04:01:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Moiz",
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/000/875/339/non_2x/attractive-business-woman-is-typing-on-her-keyboard-photo.jpg",
+    "lastMessage": "Sorry",
+    "lastSeen": "01:20:27",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Sorry",
+        "time": "01:20:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Hina",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMusEYfVFJvaWgPE4HwBV4I1yxAfqVhJQ_EQ&usqp=CAU",
+    "lastMessage": "Thanks",
+    "lastSeen": "11:01:27",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Thanks",
+        "time": "11:01:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Sidra",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCy8b3zoTRM0TB8dQ4ayLQoDSFaf5kb8jGg&usqp=CAU",
+    "lastMessage": "Waiting...",
+    "lastSeen": "10:01:27",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Waiting...",
+        "time": "10:01:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Minal",
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/007/143/648/non_2x/asian-woman-with-digital-tablet-standing-in-modern-office-background-and-copy-space-fashion-business-of-beautiful-girl-in-casual-suit-with-tablet-photo.JPG",
+    "lastMessage": "Good",
+    "lastSeen": "08:01:27",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Good",
+        "time": "08:01:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Komal",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFUZv3uhk6PB6MwyurjIfofLHlqte3Ji3LQ&usqp=CAU",
+    "lastMessage": "Hmm",
+    "lastSeen": "09:02:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Hmm",
+        "time": "09:02:27",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Ali",
+    "imageUrl" : "https://thumbs.dreamstime.com/b/closeup-beautiful-female-hands-typing-keyboard-using-laptop-cafe-successful-business-woman-working-blurred-background-117089589.jpg",
+    "lastMessage": "Nope",
+    "lastSeen": "01:02:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Nope",
+        "time": "01:02:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Saira",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbofKuMrShrdYr2l_s0AmyOPg1uleAa1Fdw&usqp=CAU",
+    "lastMessage": "Sure",
+    "lastSeen": "02:01:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Sure",
+        "time": "02:01:28",
+        "status": true,
+        "isSend": true
+      }
+    ]
+  },
+  {
+
+    "userName" : "Kanwal",
+    "imageUrl" : "https://media.istockphoto.com/id/1124867063/photo/beautiful-young-smiling-asian-woman-working-on-laptop-and-drinking-coffee-in-living-room-at.jpg?b=1&s=170667a&w=0&k=20&c=vznMI5CDuVENsQHgfLVTU1NF8L1wQcVGXuycTOncWkU=",
+    "lastMessage": "Bye",
+    "lastSeen": "05:02:28",
+    "messages": [
+      {
+        "id": 1,
+        "messageText": "Hi",
+        "time": "01:01:01",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 2,
+        "messageText": "Hello",
+        "time": "01:01:02",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 3,
+        "messageText": "How are you?",
+        "time": "01:01:03",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 4,
+        "messageText": "I'm fine, how are you?",
+        "time": "01:01:04",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 5,
+        "messageText": "Hey, whats going on",
+        "time": "01:01:05",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 6,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:06",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 7,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui :P",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 8,
+        "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
+        "time": "01:01:07",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 9,
+        "messageText": "Hmm, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:08",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 10,
+        "messageText": "All right, Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:09",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 11,
+        "messageText": "No",
+        "time": "01:01:10",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 12,
+        "messageText": "Seriously",
+        "time": "01:01:11",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 13,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 14,
+        "messageText": "I don't know.",
+        "time": "01:01:12",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 15,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:13",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 16,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:14",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 17,
+        "messageText": "That's great",
+        "time": "01:01:15",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 18,
+        "messageText": "Hmm",
+        "time": "01:01:16",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 19,
+        "messageText": "Ok",
+        "time": "01:01:17",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 20,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:18",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 21,
+        "messageText": "Sure",
+        "time": "01:01:19",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 22,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:20",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 23,
+        "messageText": "Keep it up.",
+        "time": "01:01:21",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 24,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:22",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 25,
+        "messageText": "Wow",
+        "time": "01:01:23",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 26,
+        "messageText": "Nice, Cras magna lorem, euismod ac",
+        "time": "01:01:24",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 27,
+        "messageText": "That's pretty cool",
+        "time": "01:01:25",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 28,
+        "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
+        "time": "01:01:26",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 29,
+        "messageText": "Not at all",
+        "time": "01:01:27",
+        "status": true,
+        "isSend": true
+      },
+      {
+        "id": 30,
+        "messageText": "Bye",
+        "time": "01:01:28",
+        "status": false,
+        "isSend": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "userName" : "Saira",
+    "dateTime" : "12/12/22, 12:20:PM",
+    "callType" : "Voice",
+    "callStatus" : "Missed"
+
+  },
+  {
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjWRkgI0C5vq9qc-3aBT6eq6pi6ncH1x7Aw&usqp=CAU",
+    "userName" : "Saba",
+    "dateTime" : "12/12/22, 12:20:PM",
+    "callType" : "Voice",
+    "callStatus": "Received"
+  },
+  {
+    "imageUrl" : "https://img.freepik.com/free-photo/focused-female-professional-working-computer_74855-1900.jpg",
+    "userName" : "Ahmad",
+    "dateTime" : "12/12/22, 12:20:PM",
+    "callType" : "Voice",
+    "callStatus" : "Outgoing"
+  },
+  {
+    "imageUrl" : "https://img.freepik.com/free-photo/focused-female-professional-working-computer_74855-1900.jpg",
+    "userName" : "Moiz",
+    "dateTime" : "12/12/22, 12:20:PM",
+    "callType" : "Video",
+    "callStatus" : "Missed"
+  },
+  {
+    "imageUrl" : "https://thumbs.dreamstime.com/b/group-muslim-business-women-discussing-handshake-using-tablet-pc-outdoor-muslim-business-women-discussing-handshake-155111580.jpg",
+    "userName" : "Mom",
+    "dateTime" : "12/12/22, 12:20:PM",
+    "callType" : "Video",
+    "callStatus" : "Received"
+  },
+
+  {
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "userName" : "Minal",
+    "dateTime" : "12/12/22, 12:20:PM",
+    "callType" : "Voice",
+    "callStatus" : "Received"
+  }
+]

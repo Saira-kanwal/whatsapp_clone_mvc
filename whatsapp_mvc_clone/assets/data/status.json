@@ -1,0 +1,68 @@
+[
+  {
+    "userName" : "Saira",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "time": "02:01:28",
+    "isStatusSeen" : "true"
+  },
+  {
+    "userName" : "Kanwal",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjWRkgI0C5vq9qc-3aBT6eq6pi6ncH1x7Aw&usqp=CAU",
+    "time": "02:01:28",
+    "isStatusSeen" : "true"
+  },
+  {
+    "userName" : "Minal",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "time": "15 minutes ago",
+    "isStatusSeen" : "false"
+  },
+  {
+    "userName" : "Hina",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "time": "02:01:28",
+    "isStatusSeen" : "false"
+  },
+  {
+    "userName" : "Aleena",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjWRkgI0C5vq9qc-3aBT6eq6pi6ncH1x7Aw&usqp=CAU",
+    "time": "02:45:28",
+    "isStatusSeen" : "true"
+  },
+  {
+    "userName" : "Sidra",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "time": "09:01:28",
+    "isStatusSeen" : "true"
+  },
+  {
+    "userName" : "Moiz",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjWRkgI0C5vq9qc-3aBT6eq6pi6ncH1x7Aw&usqp=CAU",
+    "time": "10:01:28",
+    "isStatusSeen" : "false"
+  },
+  {
+    "userName" : "Komal",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "time": "02:01:28",
+    "isStatusSeen" : "false"
+  },
+  {
+    "userName" : "Maria",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjWRkgI0C5vq9qc-3aBT6eq6pi6ncH1x7Aw&usqp=CAU",
+    "time": "12:01:28",
+    "isStatusSeen" : "true"
+  },
+  {
+    "userName" : "Rida",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "time": "02:01:28",
+    "isStatusSeen" : "false"
+  },
+  {
+    "userName" : "Fatima",
+    "statusImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe9aeT2qqCL9GyePVTUppXIBtY6oe5zH8ZQ&usqp=CAU",
+    "time": "02:01:28",
+    "isStatusSeen" : "false"
+  }
+]
