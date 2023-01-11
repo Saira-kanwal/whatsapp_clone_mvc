@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp_mvc_clone/controller/calls_controller.dart';
 
+import 'audio_call_view.dart';
+
 class CallsView extends StatefulWidget {
   const CallsView({Key? key}) : super(key: key);
 
@@ -54,6 +56,9 @@ class _CallsViewState extends State<CallsView> {
                 controller.calls[index].callType=="Video"? Icons.video_call : Icons.call,
                 color: Colors.green,
               ),
+              onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context) => AudioCallView(call: controller.calls[index],)));
+              },
             );
           }
       ),
