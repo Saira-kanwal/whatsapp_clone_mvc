@@ -27,8 +27,8 @@ class CommunityView extends StatelessWidget {
                         child: const Icon(Icons.group,color: Colors.white,),
                       ),
                       const Positioned(
-                        bottom: -3,
-                        right: -3,
+                        bottom: -1,
+                        right: -1,
                         child:
                         CircleAvatar(
                           backgroundColor: Colors.white,
@@ -80,5 +80,4 @@ class CommunityView extends StatelessWidget {
   }
 }
 
-class contex {
-}
+

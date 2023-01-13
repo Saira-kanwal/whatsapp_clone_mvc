@@ -43,8 +43,8 @@ class _StatusViewState extends State<StatusView> {
                           child: const Icon(Icons.person,color: Colors.white,),
                         ),
                         const Positioned(
-                            bottom: -3,
-                            right: -3,
+                            bottom: -1,
+                            right: -1,
                             child:
                             CircleAvatar(
                               backgroundColor: Colors.white,

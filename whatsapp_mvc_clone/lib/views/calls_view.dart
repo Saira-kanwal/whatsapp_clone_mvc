@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_mvc_clone/controller/calls_controller.dart';
+import 'package:whatsapp_mvc_clone/controller/call_controller.dart';
 
 import 'audio_call_view.dart';
 
@@ -11,7 +11,7 @@ class CallsView extends StatefulWidget {
 }
 
 class _CallsViewState extends State<CallsView> {
-  var controller = CallsController();
+  var controller = CallController();
   loadData()async{
     await controller.getCalls();
     setState(() {
@@ -52,13 +52,20 @@ class _CallsViewState extends State<CallsView> {
                 ],
               ),
               trailing:
-              Icon(
-                controller.calls[index].callType=="Video"? Icons.video_call : Icons.call,
-                color: Colors.green,
-              ),
-              onTap: (){
-                Navigator.push(context, MaterialPageRoute(builder: (context) => AudioCallView(call: controller.calls[index],)));
-              },
+                  InkWell(
+                    splashColor: Colors.grey.shade100,
+                    onTap: (){
+                      Navigator.push(context, MaterialPageRoute(builder: (context) => AudioCallView(call: controller.calls[index],)));
+                      },
+                    child: SizedBox(
+                      width: 50,
+                      height: 50,
+                      child: Icon(
+                        controller.calls[index].callType=="Video"? Icons.video_call : Icons.call,
+                        color: Colors.green,
+                      )
+                    ),
+                  ),
             );
           }
       ),
