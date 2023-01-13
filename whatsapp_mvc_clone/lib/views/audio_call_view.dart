@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_mvc_clone/models/calls_model.dart';
+import 'package:whatsapp_mvc_clone/models/call_model.dart';
 
 class AudioCallView extends StatelessWidget {
-  final Calls call;
+  final Call call;
   const AudioCallView({Key? key, required this.call}) : super(key: key);
 
   @override

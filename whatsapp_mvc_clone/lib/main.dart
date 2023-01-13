@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_mvc_clone/views/auth_view.dart';
 import 'package:whatsapp_mvc_clone/views/splash_view.dart';
 
 void main() {
@@ -16,6 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.teal,
+        scaffoldBackgroundColor: Colors.white,
       ),
       home: const SplashView(),
       //AuthView(),

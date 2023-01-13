@@ -1,4 +1,4 @@
-class Calls{
+class Call{
   final String? imageUrl;
   final String? userName;
   final String?dateTime;
@@ -6,11 +6,11 @@ class Calls{
   final String? callType;
 
 //non positional constructor
-  Calls({this.imageUrl,this.callStatus,this.dateTime,this.userName,this.callType});
+  Call({this.imageUrl,this.callStatus,this.dateTime,this.userName,this.callType});
 
-  factory Calls.fromMap(Map data)
+  factory Call.fromMap(Map data)
   {
-    return Calls(
+    return Call(
     imageUrl: data["imageUrl"],
     userName: data["userName"],
     dateTime:  data["dateTime"],

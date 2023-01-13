@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp_mvc_clone/controller/chat_controller.dart';
+import 'package:whatsapp_mvc_clone/views/views.dart';
 
 class ChatsView extends StatefulWidget {
   const ChatsView({Key? key}) : super(key: key);
@@ -7,7 +8,7 @@ class ChatsView extends StatefulWidget {
   @override
   State<ChatsView> createState() => _ChatsViewState();
 }
-// TimeOfDay lastMessageTime = TimeOfDay.fromDateTime(DateTime.now());
+
 class _ChatsViewState extends State<ChatsView> {
   var controller = ChatController();
   loadData() async
@@ -35,8 +36,8 @@ class _ChatsViewState extends State<ChatsView> {
               leading: CircleAvatar(
                 radius: 25,
                 backgroundColor: Colors.grey,
-                backgroundImage: NetworkImage(controller.chats[index].imageUrl.toString()),
-                //child: const Icon(Icons.person,color: Colors.white,),
+                foregroundImage: NetworkImage(controller.chats[index].imageUrl.toString()),
+                child: const Icon(Icons.person,color: Colors.white,),
               ),
               title: Text(controller.chats[index].userName.toString()),
               subtitle: Text(controller.chats[index].lastMessage.toString()),
@@ -49,7 +50,9 @@ class _ChatsViewState extends State<ChatsView> {
       ),
       floatingActionButton: FloatingActionButton(
         child: const Icon(Icons.add),
-        onPressed: (){},
+        onPressed: (){
+          Navigator.push(context, MaterialPageRoute(builder:(context)=>const LinkedDeviceView()));
+        },
       ),
     );
   }

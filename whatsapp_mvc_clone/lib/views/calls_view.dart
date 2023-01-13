@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_mvc_clone/controller/calls_controller.dart';
+import 'package:whatsapp_mvc_clone/controller/call_controller.dart';
 
 import 'audio_call_view.dart';
 
@@ -11,7 +11,7 @@ class CallsView extends StatefulWidget {
 }
 
 class _CallsViewState extends State<CallsView> {
-  var controller = CallsController();
+  var controller = CallController();
   loadData()async{
     await controller.getCalls();
     setState(() {

@@ -80,5 +80,4 @@ class CommunityView extends StatelessWidget {
   }
 }
 
-class contex {
-}
+
