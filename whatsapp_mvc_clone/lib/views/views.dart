@@ -9,6 +9,6 @@ export 'audio_call_view.dart';
 export 'new_broadcast_view.dart';
 export 'linked_devices_view.dart';
 export 'new_group_view.dart';
-export 'setting_view.dart';
+export 'settings_view.dart';
 export 'splash_view.dart';
 export 'starred_message_view.dart';

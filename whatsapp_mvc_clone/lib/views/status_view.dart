@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../controller/status_controller.dart';
+import '../../controller/status_controller.dart';
 
 class StatusView extends StatefulWidget {
   const StatusView({Key? key}) : super(key: key);

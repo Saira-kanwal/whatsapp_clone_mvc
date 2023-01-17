@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class StarredMessagesView extends StatelessWidget {
-  const StarredMessagesView({Key? key}) : super(key: key);
+class DeleteAccountView extends StatelessWidget {
+  const DeleteAccountView({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Starred messages"),
+        title: const Text("Delete my account"),
       ),
     );
   }

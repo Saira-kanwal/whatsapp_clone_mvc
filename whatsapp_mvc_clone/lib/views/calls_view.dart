@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp_mvc_clone/controller/call_controller.dart';
 
-import 'audio_call_view.dart';
+import '../views/audio_call_view.dart';
 
 class CallsView extends StatefulWidget {
   const CallsView({Key? key}) : super(key: key);

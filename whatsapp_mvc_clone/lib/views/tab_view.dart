@@ -40,7 +40,21 @@ class _TabViewState extends State<TabView> {
               icon: const Icon(Icons.more_vert,),
               splashRadius: 20,
             onSelected: (val){
-                //todo: navigation Implementation
+              if(val == "group"){
+                Navigator.push(context, MaterialPageRoute(builder: (context)=> const NewGroupView()));
+              }
+                else if(val == "broadcast"){
+                Navigator.push(context, MaterialPageRoute(builder: (context)=> const NewBroadcastView()));
+                }
+                else if(val == "linked devices"){
+                  Navigator.push(context, MaterialPageRoute(builder: (context)=> const LinkedDeviceView()));
+                }
+                else if(val == "starred message"){
+                  Navigator.push(context, MaterialPageRoute(builder: (context)=> const StarredMessagesView()));
+                }
+                else if(val == "setting"){
+                  Navigator.push(context, MaterialPageRoute(builder: (context)=> const SettingsView()));
+                }
             },
               itemBuilder: (context) {
                 return const [

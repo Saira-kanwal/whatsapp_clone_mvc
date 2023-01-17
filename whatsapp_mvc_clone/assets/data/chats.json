@@ -2419,7 +2419,7 @@
         "messageText": "Hi",
         "time": "01:01:01",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 2,
@@ -2440,7 +2440,7 @@
         "messageText": "I'm fine, how are you?",
         "time": "01:01:04",
         "status": true,
-        "isSend": true
+        "isSend":false
       },
       {
         "id": 5,
@@ -2454,7 +2454,7 @@
         "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
         "time": "01:01:06",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 7,
@@ -2468,7 +2468,7 @@
         "messageText": "Oh, Cras magna lorem, euismod ac dictum at, malesuada eget dui. :)",
         "time": "01:01:07",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 9,
@@ -2489,7 +2489,7 @@
         "messageText": "No",
         "time": "01:01:10",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 12,
@@ -2503,7 +2503,7 @@
         "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
         "time": "01:01:12",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 14,
@@ -2517,7 +2517,7 @@
         "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
         "time": "01:01:13",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 16,
@@ -2531,7 +2531,7 @@
         "messageText": "That's great",
         "time": "01:01:15",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 18,
@@ -2545,7 +2545,7 @@
         "messageText": "Ok",
         "time": "01:01:17",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 20,
@@ -2566,7 +2566,7 @@
         "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
         "time": "01:01:20",
         "status": true,
-        "isSend": true
+        "isSend":false
       },
       {
         "id": 23,
@@ -2580,7 +2580,7 @@
         "messageText": "Cras magna lorem, euismod ac dictum at, malesuada eget dui.",
         "time": "01:01:22",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 25,
@@ -2601,7 +2601,7 @@
         "messageText": "That's pretty cool",
         "time": "01:01:25",
         "status": true,
-        "isSend": true
+        "isSend": false
       },
       {
         "id": 28,
@@ -2622,7 +2622,7 @@
         "messageText": "See you soon",
         "time": "04:01:28",
         "status": true,
-        "isSend": true
+        "isSend": false
       }
     ]
   },

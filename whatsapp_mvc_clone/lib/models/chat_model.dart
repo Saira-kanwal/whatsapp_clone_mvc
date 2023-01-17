@@ -23,7 +23,7 @@ factory Chat.fromMap(Map data)
     imageUrl: data['imageUrl'],
     lastMessage: data['lastMessage'],
     lastSeen: data['lastSeen'],
-    messages: data['temp'],
+    messages: temp,
 
   );
 }

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:whatsapp_mvc_clone/chat_details_view.dart';
 import 'package:whatsapp_mvc_clone/controller/chat_controller.dart';
-import 'package:whatsapp_mvc_clone/views/views.dart';
+import 'account_view.dart';
 
 class ChatsView extends StatefulWidget {
   const ChatsView({Key? key}) : super(key: key);
@@ -43,6 +44,7 @@ class _ChatsViewState extends State<ChatsView> {
               subtitle: Text(controller.chats[index].lastMessage.toString()),
               trailing: Text(controller.chats[index].lastSeen.toString()),
               onTap: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context)=> ChatDetailsView(chat: controller.chats[index])));
 
               },
             );
@@ -51,7 +53,7 @@ class _ChatsViewState extends State<ChatsView> {
       floatingActionButton: FloatingActionButton(
         child: const Icon(Icons.add),
         onPressed: (){
-          Navigator.push(context, MaterialPageRoute(builder:(context)=>const LinkedDeviceView()));
+          Navigator.push(context, MaterialPageRoute(builder:(context)=>const AccountView()));
         },
       ),
     );
