@@ -1,16 +1,35 @@
 import 'package:flutter/material.dart';
+import 'package:whatsapp_mvc_clone/controller/call_controller.dart';
 import 'package:whatsapp_mvc_clone/models/message_model.dart';
+import 'package:whatsapp_mvc_clone/views/audio_call_view.dart';
 import 'package:whatsapp_mvc_clone/views/auth_view.dart';
-
 import 'models/chat_model.dart';
 
-class ChatDetailsView extends StatelessWidget {
+class ChatDetailsView extends StatefulWidget {
   final Chat chat;
   const ChatDetailsView({Key? key, required this.chat}) : super(key: key);
 
+  @override
+  State<ChatDetailsView> createState() => _ChatDetailsViewState();
+}
 
+class _ChatDetailsViewState extends State<ChatDetailsView> {
+  var controller = CallController();
+
+  loadData()async{
+    await controller.getCalls();
+    setState(() {
+
+    });
+  }
+  @override
+  void initState() {
+    loadData();
+    super.initState();
+  }
   @override
   Widget build(BuildContext context) {
+    controller.getCalls();
     return Scaffold(
       appBar: AppBar(
         leadingWidth: 55,
@@ -32,8 +51,8 @@ class ChatDetailsView extends StatelessWidget {
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-             Text(chat.userName.toString(),style: const TextStyle(fontWeight: FontWeight.bold),),
-            Text("last seen today at ${chat.lastSeen}",style: const TextStyle(fontWeight: FontWeight.bold,fontSize: 15),)
+             Text(widget.chat.userName.toString(),style: const TextStyle(fontWeight: FontWeight.bold),),
+            Text("last seen today at ${widget.chat.lastSeen}",style: const TextStyle(fontWeight: FontWeight.bold,fontSize: 15),)
           ],
         ),
         // title: const Text("Message"),
@@ -42,7 +61,9 @@ class ChatDetailsView extends StatelessWidget {
               onTap: (){}
           ),
           _circleButton(icon:const  Icon(Icons.phone),
-              onTap: (){}
+            onTap: (){
+              // Navigator.push(context, MaterialPageRoute(builder: (context) => AudioCallView(call:)));
+            },
           ),
           PopupMenuButton(
             icon: const Icon(Icons.more_vert),
@@ -109,17 +130,66 @@ class ChatDetailsView extends StatelessWidget {
           )
         ],
       ),
-      body: ListView.builder(
-        itemCount: chat.messages!.length,
-          itemBuilder: (context, index){
-            return _messageCard(
-                context: context,
-                message: chat.messages![index]
-            );
-          }
-      ),
+      body: Column(
+        children: [
+          Expanded(
+              child: ListView.builder(
+                  itemCount: widget.chat.messages!.length,
+                  itemBuilder: (context, index){
+                    return _messageCard(
+                        context: context,
+                        message: widget.chat.messages![index]
+                    );
+                  }
+              )
+          ),
+          Row(
+            children: [
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Container(
+                  width: MediaQuery.of(context).size.width,
+                  height: 100,
+                  decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(50),
+                      color: Colors.grey.shade100
+                  ),
+                  child: Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 15),
+                    child: Row(
+                      children: [
+                        // TextFormField(
+                        //   style: const TextStyle(
+                        //   fontSize: 16,
+                        //   color: Color(0xff9C9EB9)),
+                        //   onChanged: (value) {
+                        //   },
+                        //   decoration: const InputDecoration(
+                        //   contentPadding: EdgeInsets.symmetric(
+                        //   vertical: 8.0, horizontal: 0.0),
+                        //   hintText: 'Message...',
+                        //   hintStyle: TextStyle(
+                        //   color: Color(0xff8E8E93),
+                        //   ),
+                        //   focusedBorder: InputBorder.none,
+                        //   enabledBorder: InputBorder.none,
+                        //   errorBorder: InputBorder.none,
+                        //   disabledBorder: InputBorder.none
+                        //   )
+                        // ),
+                          TextFormField()
+                      ],
+                    ),
+                  ),
+                ),
+              )
+            ],
+          )
+        ],
+      )
     );
   }
+
   //Function based custom widget
   Widget _circleButton({required Icon icon, required Function() onTap})
   {
@@ -127,22 +197,33 @@ class ChatDetailsView extends StatelessWidget {
         onPressed: onTap,
         icon: icon);
   }
+
   Widget _messageCard({required BuildContext context, required Message message}){
     return Row(
       mainAxisAlignment: message.isSend == true? MainAxisAlignment.end: MainAxisAlignment.start,
+      //crossAxisAlignment: message.isSend == true? CrossAxisAlignment.end: CrossAxisAlignment.start,
       children: [
     Container(
     width: MediaQuery.of(context).size.width*0.75,
-    padding:  const EdgeInsets.all(10),
-    margin:  const EdgeInsets.all(8),
+    padding:  const EdgeInsets.all(15),
+    margin:  const EdgeInsets.all(5),
     decoration: BoxDecoration(
-    color: message.isSend == true? Colors.teal : Colors.grey,
-    borderRadius: BorderRadius.circular(8)
+    color: message.isSend == true? Colors.teal : Colors.black.withOpacity(0.5),
+    borderRadius: message.isSend == true? const BorderRadius.only(
+        topLeft: Radius.circular(20.0),
+        bottomLeft: Radius.circular(20),
+        bottomRight: Radius.circular(20)
+    ) :
+    const BorderRadius.only(
+        topRight: Radius.circular(20.0),
+        bottomLeft: Radius.circular(20),
+        bottomRight: Radius.circular(20)
+    )
     ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(message.messageText.toString(),style: const TextStyle(color: Colors.white),),
+          Text(message.messageText.toString(),style: const TextStyle(color: Colors.white,fontSize: 15)),
           const SizedBox(height: 3,),
           Row(
             mainAxisAlignment: MainAxisAlignment.end,

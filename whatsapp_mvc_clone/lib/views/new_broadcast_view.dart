@@ -10,9 +10,9 @@ class NewBroadcastView extends StatefulWidget {
 }
 
 class _NewBroadcastViewState extends State<NewBroadcastView> {
-  var controller = ContactController();
+  final _controller = ContactController();
   loadData() async {
-    controller.getContacts();
+    _controller.getContacts();
     setState(() {
 
     });
@@ -24,16 +24,17 @@ class _NewBroadcastViewState extends State<NewBroadcastView> {
   }
   @override
   Widget build(BuildContext context) {
-    controller.getContacts();
+    _controller.getContacts();
     return Scaffold(
       appBar: AppBar(
         foregroundColor: Colors.white,
         title: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children:  [
-            const Text("  New broadcast",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w400)),
+            const Text("New broadcast",style: TextStyle(fontSize: 20,fontWeight: FontWeight.w400)),
             const SizedBox(height: 5,),
             Text(
-              "0 of ${controller.contacts.length.toString()} selected",
+              "0 of ${_controller.contacts.length.toString()} selected",
               style: const TextStyle(fontSize: 16,fontWeight: FontWeight.w300
             ),)
           ],
@@ -50,7 +51,7 @@ class _NewBroadcastViewState extends State<NewBroadcastView> {
       Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisAlignment: MainAxisAlignment.start,
-        mainAxisSize: MainAxisSize.max,
+        // mainAxisSize: MainAxisSize.max,
         children: [
           Container(
             width: MediaQuery.of(context).size.width,
@@ -63,37 +64,38 @@ class _NewBroadcastViewState extends State<NewBroadcastView> {
           ),
           const Divider(),
           SizedBox(
-            height: MediaQuery.of(context).size.height * 0.70,
+            height: MediaQuery.of(context).size.height * 0.80,
             child: ListView.builder(
                 shrinkWrap: true,
-                itemCount: controller.contacts.length,
+                itemCount: _controller.contacts.length,
                 itemBuilder: (context, index){
                   return ListTile(
-                    leading: CircleAvatar(
+                    leading: const CircleAvatar(
                       radius: 25,
                       backgroundColor: Colors.grey,
-                      foregroundImage: NetworkImage(controller.contacts[index].imageUrl.toString()),
-                      child: const Icon(Icons.person,color: Colors.white,),
+                      // foregroundImage: NetworkImage(controller.contacts[index].imageUrl.toString()),
+                      child: Icon(Icons.person,color: Colors.white,),
                     ),
                     title: Text(
-                      controller.contacts[index].userName.toString(),
+                      _controller.contacts[index].userName.toString(),
                       style: const TextStyle(fontWeight: FontWeight.w500,),
                     ),
-                    subtitle: Text(controller.contacts[index].about.toString()),
+                    subtitle: Text(_controller.contacts[index].about.toString()),
                   );
                 }
             ),
-          )
+          ),
         ],
       ),
-      floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.teal,
-        onPressed: () {
-          // Navigator.push(context, MaterialPageRoute(builder: (context)=>const NewGroupView()));
-        },
-        child: const Icon(Icons.arrow_forward,size: 25,),
-      ),
+        floatingActionButton: FloatingActionButton(
+          backgroundColor: Colors.teal,
+          onPressed: () {
+            // Navigator.push(context, MaterialPageRoute(builder: (context)=>const NewGroupView()));
+          },
+          child: const Icon(Icons.arrow_forward,size: 25,),
+        )
     );
+
 
   }
 }

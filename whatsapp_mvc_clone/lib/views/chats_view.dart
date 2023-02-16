@@ -53,7 +53,7 @@ class _ChatsViewState extends State<ChatsView> {
       floatingActionButton: FloatingActionButton(
         child: const Icon(Icons.add),
         onPressed: (){
-          Navigator.push(context, MaterialPageRoute(builder:(context)=>const AccountView()));
+          // Navigator.push(context, MaterialPageRoute(builder:(context)=>const AccountView()));
         },
       ),
     );

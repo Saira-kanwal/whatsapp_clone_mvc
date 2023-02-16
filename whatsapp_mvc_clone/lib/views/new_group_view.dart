@@ -48,11 +48,11 @@ class _NewGroupViewState extends State<NewGroupView> {
         itemCount: controller.contacts.length,
           itemBuilder: (context, index){
             return ListTile(
-              leading: CircleAvatar(
+              leading: const CircleAvatar(
                 radius: 25,
                 backgroundColor: Colors.grey,
-                foregroundImage: NetworkImage(controller.contacts[index].imageUrl.toString()),
-                child: const Icon(Icons.person,color: Colors.white,),
+                // foregroundImage: NetworkImage(controller.contacts[index].imageUrl.toString()),
+                child: Icon(Icons.person,color: Colors.white,),
               ),
               title: Text(
                 controller.contacts[index].userName.toString(),

@@ -26,11 +26,12 @@ class _SplashViewState extends State<SplashView> {
 
   @override
   Widget build(BuildContext context) {
+
     return const Scaffold(
       body:
       Center(
         child:
-        Icon(Icons.whatsapp,size: 50,color: Colors.green,),
+        Icon(Icons.facebook,size: 50,color: Colors.green,),
       ),
     );
   }
