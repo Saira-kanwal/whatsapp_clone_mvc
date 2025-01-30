@@ -1,16 +1,52 @@
-# whatsapp_mvc_clone
+# WhatsApp UI Clone
 
-A new Flutter project.
+A **Flutter** application that replicates the WhatsApp user interface using the **MVC architecture**. This frontend-only project uses a **JSON file** to display chat data on various screens.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![Screens](assets/images/Whatsapp-ui.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 📱 WhatsApp-like user interface
+- 🗂 Tab-based navigation (Chats, Calls, Status)
+- 💬 Display chat messages from a local JSON file
+- 🎨 Beautiful UI with Material Design components
+- 🏗 Uses **MVC Architecture** for better code organization
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter** (Dart)
+- **JSON** (for storing chat data locally)
+- **MVC Architecture** (Model-View-Controller pattern)
+- **Material Design** (for UI components)
+
+---
+
+## 📜 License
+
+This project is **open-source** and available under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve the app, feel free to **fork** the repository and submit a **pull request**.
+
+---
+
+## 📧 Contact
+
+For any inquiries or suggestions, reach out via:
+- **GitHub**: [saira-kanwal](https://github.com/saira-kanwal)
+
+---
+
+### ⭐ Don't forget to star the repo if you like this project! ⭐
+
